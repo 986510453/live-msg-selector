@@ -8,6 +8,7 @@
 - vx：a986510453
 
 效果视频：<br/>
+- https://live.csdn.net/v/302829?spm=1001.2014.3001.5501
 
 
 https://github.com/986510453/live-msg-selector/assets/33100175/2bf22418-78ad-4ea1-b0c1-29a37ba60d55
